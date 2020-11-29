@@ -1,4 +1,4 @@
-names = ["Hadi","morteza", "Hamidhkoeini","danial"]
+names = ["Hadi","morteza", "Hamidhkoeini","danial abyazi"]
 
 for n in names:
     print(n)
